@@ -61,9 +61,11 @@ Perform common SRV Record Enumeration
 Top level domain expansion
 ## OUTPUT:
 
-
-
-
+![site](./op-img/site.png)
+![filetype](./op-img/filetype.png)
+![intext](./op-img/intext.png)
+![inurl](./op-img/inurl.png)
+![intitle](./op-img/intitle.png)
 
 
 
@@ -106,7 +108,10 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 
 ## OUTPUT:
-
+![dnsrecon](./op-img/dnsrecon.png)
+![dnsenum](./op-img/dnsenum.png)
+![telnet](./op-img/telnet.png)
+![smtp-enum](./op-img/smtp-enum.png)
 
 ## RESULT:
 The Google hacking keywords and enumeration tools were identified and executed successfully
